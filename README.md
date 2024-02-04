@@ -1,7 +1,9 @@
 👋 Hi, I'm @sparkvps
 <br>
 👀 I am interested in programming
+<br>
 🌱 I am learning Python
+<br>
 ⚡ Interesting fact: the sun has its back to us
 
 
