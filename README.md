@@ -1,15 +1,7 @@
-- 👋 Hi, I’m @sparkvps
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-sparkvps/sparkvps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm @sparkvps
+👀 I am interested in programming
+🌱 I am learning Python
+⚡ Interesting fact: the sun has its back to us
 
 
 [![hossin's GitHub stats](https://github-readme-stats-git-master-hossinasaadi.vercel.app/api?username=sparkvps&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/sparkvps)
